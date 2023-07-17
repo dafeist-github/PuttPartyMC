@@ -3,3 +3,6 @@
 .settings/org.eclipse.m2e.core.prefs
 .project
 .classpath
+bundler
+logs
+DevServer/spigot-1.20.1.jar
